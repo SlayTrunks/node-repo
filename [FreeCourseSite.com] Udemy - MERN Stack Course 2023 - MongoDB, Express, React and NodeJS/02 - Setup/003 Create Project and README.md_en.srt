@@ -1,0 +1,100 @@
+1
+00:00:00,270 --> 00:00:00,690
+Beautiful.
+
+2
+00:00:01,080 --> 00:00:05,790
+And once we're familiar with the final application, let's start working on our own project.
+
+3
+00:00:06,330 --> 00:00:12,900
+And the first task might look somewhat trivial where we all need to set up an empty folder.
+
+4
+00:00:13,410 --> 00:00:19,200
+So basically come up with the name of your application and name the folder our way, and they will set
+
+5
+00:00:19,200 --> 00:00:21,090
+up a read me the first.
+
+6
+00:00:21,360 --> 00:00:26,460
+In my case, I'm going to do that unless of course, you can set it up anywhere you like, and I'm just
+
+7
+00:00:26,460 --> 00:00:27,550
+going to go with the same name.
+
+8
+00:00:28,110 --> 00:00:29,430
+I'm going to go with a job.
+
+9
+00:00:29,430 --> 00:00:37,770
+For one, I'm going to open up my visual studio code, my text editor, and like I said, first file
+
+10
+00:00:37,770 --> 00:00:40,210
+that I want to set up here is actually read me.
+
+11
+00:00:41,010 --> 00:00:44,850
+So I'm going to go with read me and not let me go all uppercase.
+
+12
+00:00:45,300 --> 00:00:47,250
+Read me and markdown.
+
+13
+00:00:47,550 --> 00:00:49,860
+And the idea behind this file is falling.
+
+14
+00:00:50,310 --> 00:00:54,750
+Before each video, I will share all the steps I'm going to take.
+
+15
+00:00:55,470 --> 00:01:00,120
+So that way, if you want to complete the task on your own, it's definitely an option.
+
+16
+00:01:00,750 --> 00:01:04,290
+I use that approach in one of the projects in my adult course.
+
+17
+00:01:04,920 --> 00:01:06,840
+And students seem to really like it.
+
+18
+00:01:07,560 --> 00:01:14,520
+One quick side note, though, if there's a discrepancy between what you see in the video and the content
+
+19
+00:01:14,520 --> 00:01:21,300
+in your read me, please follow your lead me content since I probably fixed it after I recorded the
+
+20
+00:01:21,300 --> 00:01:24,060
+video in order to get all the steps.
+
+21
+00:01:24,810 --> 00:01:26,460
+Navigate to Final Project.
+
+22
+00:01:26,910 --> 00:01:31,980
+Look for me in the source and what you can do is take this whole thing.
+
+23
+00:01:32,640 --> 00:01:34,770
+Copy and paste it over here.
+
+24
+00:01:35,190 --> 00:01:38,880
+And once you have the project, we have a read in place.
+
+25
+00:01:39,240 --> 00:01:42,030
+Now we can proceed to the next step.
+

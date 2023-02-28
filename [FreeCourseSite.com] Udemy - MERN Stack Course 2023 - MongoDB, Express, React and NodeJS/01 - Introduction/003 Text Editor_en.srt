@@ -1,0 +1,32 @@
+1
+00:00:00,210 --> 00:00:03,160
+As far as my attacks that are I use Visual Studio code.
+
+2
+00:00:03,930 --> 00:00:09,900
+But it's not a requirement for discourse since I end up recording most of my project.
+
+3
+00:00:10,320 --> 00:00:14,220
+I keep my code set up as close as possible to the default.
+
+4
+00:00:14,820 --> 00:00:20,670
+Since our you don't have to spend extra time on tinkering with your text editor configuration settings.
+
+5
+00:00:21,270 --> 00:00:29,040
+Well, that said, all of the important extensions and config settings which I will utilize in this
+
+6
+00:00:29,040 --> 00:00:32,820
+course, we will cover in great detail in the upcoming videos.
+
+7
+00:00:33,750 --> 00:00:40,530
+Now, if you are interested to find out more about my setup, you can always navigate to this repo where
+
+8
+00:00:40,530 --> 00:00:48,150
+you'll find all of the extensions, as well as the settings JSON I use in my text editor.
+
